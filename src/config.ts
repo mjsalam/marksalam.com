@@ -9,7 +9,7 @@ export const PATHS = {
 
 export const CONFIG = {
   site_title: "Mark Salam | Technologist",
-  site_url: "https://www.yoursite.dev",
+  site_url: "https://www.marksalam.com",
   author: "Mark Salam",
   email: "your@email.com",
   description: "Welcome to my blog!",
