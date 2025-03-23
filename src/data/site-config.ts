@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Mark Salam',
-    subtitle: 'Minimal Astro.js theme',
+    subtitle: 'Technology, InfoSec, and Music',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
